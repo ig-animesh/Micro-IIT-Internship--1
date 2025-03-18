@@ -1,7 +1,7 @@
 # Micro-IIT-Internship--1
 Quiz Game
 
-Quiz Game (Project 02)
+Quiz Game (Project 01)
 
 A simple quiz game built using HTML, CSS, and JavaScript, designed to test users' knowledge with 4 multiple-choice questions.
 
