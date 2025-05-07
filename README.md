@@ -12,7 +12,7 @@ Designed to provide a comprehensive overview of my professional identity, includ
 
 ![Recording 2025-05-07 235904.gif](<https://media-hosting.imagekit.io/7cb48bbece5941e0/Recording%202025-05-07%20235904.gif?Expires=1841250988&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Y8Im9FPeEkXCPXjyzShqpXq4gRWAgT~w0T-IAIgZeeb~7T~JoUaquf0HOEkh~O9AFBd7MuR69Djn3Ps25oJNVvZDXY1b9yJQ9tNe0HDiaoMKtCu43R7UP6evcfK--yM8ldfGAAIv5ubTQEraHXKaq31Q~BhUjsNmt1m~zfahOGb7oI2iGsDYjafC3HRSJV3qkU11GrohQXVIaDoTJigfDQGXsb5OGtWVTA5r-MvUVL4CrA1EewDNZEGeqqve9eKHvLgq0ec3QuJFWT0jglHE3dEFe~l754bqTp2T2p6idFVZ1QG-C0HXLe1io7av7m-aNWdDZYvz6GHVkYrhFccRkQ__>)
 
-Live: https://ig-animesh.github.io/SCT_WD_4/
+Live: https://ig-animesh.github.io/Micro-IIT-Internship--1/
 
 ## Features
 
